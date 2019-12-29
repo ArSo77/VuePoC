@@ -1,2 +1,2 @@
 # VuePoC
-Proof of Concept project
+Proof of Concept project.
